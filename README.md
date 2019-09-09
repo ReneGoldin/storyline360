@@ -4,6 +4,11 @@
 Articulate Storyline Information
 Interactive Articulate Storyline modules developed to practice some functions.
 
+##Samples:
+1. Drop and Drag Interaction - The Scrum
+2. Scenario Based - Restaurant conflict resolution
+3. Timeline - The history of Apartheid
+
 ## Customization
 To customize or edit the modules you will need to have Articulate Storyline: Articulate Storyline 360 for interaction (Build 3.22.17236.0)
 
